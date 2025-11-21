@@ -10,7 +10,7 @@
 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | Apache 2.0 | Yes | Yes | Yes | Yes to commercial use, detailed attribution required that must include copyright, license, and notice, can modify/redistribute, must state major changes. |
 | [huggingface/transformers](https://github.com/huggingface/transformers) | Apache 2.0 | Yes | Yes | Yes | Yes to commercial use, detailed attribution required that must include copyright, license, and notice, can modify/redistribute, must state major changes. |
 | [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | MIT | Yes | Yes | Yes | Yes to commercial use, basic attribution required, can modify/redistribute freely without any special restrictions. |
-| [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | No License | No | N/A | No | Without a license, default copyright laws apply. Cannot use, copy, distribute, or modify without explicit permission. |
+| [projectmatris/antimalwareapp](https://github.com/projectmatris/antimalwareapp) | GPL 3.0 | Yes | Yes | Yes | Yes to commercial use, detailed attribution required that GPL text should be included, can modify/redistribute under GPL 3.0, and must provide source code as the special requirements. |
 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | No License | No | N/A | No | Without a license, default copyright laws apply. Cannot use, copy, distribute, or modify without explicit permission. |
 
 ### Exercise-2 (LICENSE is in LICENSE file)
